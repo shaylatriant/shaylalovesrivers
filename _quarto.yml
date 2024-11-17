@@ -2,16 +2,18 @@ project:
   type: website
 
 website:
-  title: "shaylalovesrivers"
+  title: "Shayla Triantafillou"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+      - photos.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

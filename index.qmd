@@ -1,11 +1,16 @@
 ---
-title: "shaylalovesrivers"
+project:
+  type: website
+  output-dir: docs
+
+  about:
+    template: "jolla"
+    image: "media/profile.jpg"
+    links:
+    - icon: envelope
+      href: mailto:striant@colostate.edu
+    - icon: github
+      href: https://github.com/shaylatriant
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I'm a fluvial geomorphologist broadly studying biophysical interactions in river corridors. I use a combination of field and remote methods to understand river forms and processes in natural and altered river systems.
