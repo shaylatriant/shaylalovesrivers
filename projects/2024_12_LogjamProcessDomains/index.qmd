@@ -1,0 +1,19 @@
+---
+title: "Logjam process domains"
+description: |
+
+date: 2024-12-01
+# categories: [Field]
+image: nsv_logjam.png
+draft: false 
+lightbox: true
+---
+
+  Logjams, formerly abundant in forested catchments, serve important hydrologic, geomorphic, and ecological roles. We delineated spatial and temporal domains for logjam storage in the Southern Rockies. Additionally, we explored the implications of these analyses with smaller datasets.
+  
+  We found that elevation, morphology, and disturbance history acted as controls on the spatial distribution of logjams storage. When we iteratively decreased the sample size, we found that we were able to delineate these same spatial process domains using anywhere from 50-200 reaches rather than the full dataset of over 300 reaches. This implies that spatial controls on logjam storage could be identified for this region with substantially fewer than 300 reaches, which is a far more achievable sample size from a fieldwork perspective. 
+  
+
+***Find out more at [AGU in December](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1511942)! This work is in-progress, stay tuned for upcoming presentations and publications!***
+
+![Channel-spanning logjam on the N St. Vrain in Rocky Mountain N.P.](nsv_logjam.png){group="my-group"}

@@ -7,15 +7,39 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projects.qmd
-      - photos.qmd
-
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: photos.qmd
+        text: Photos
+  search:
+    location: navbar
+    type: overlay
+    
+  page-footer:
+    background: light
+    right:
+      - icon: github
+        href: https://github.com/shaylatriant
+      - icon: envelope
+        href: mailto:shayla.triantafillou@colostate.edu
+      - text: "{{< ai researchgate >}}"
+        href: https://www.researchgate.net/profile/Shayla_Triantafillou
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=Z-eItxUAAAAJ&hl=en&oi=ao
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme:
+      - sandstone
+      - styles.scss
     toc: true
 
-editor: visual
+editor: source
+
+collections:
+  projects:
+    path: "projects"
+    default: true
+    title: "Projects"
 

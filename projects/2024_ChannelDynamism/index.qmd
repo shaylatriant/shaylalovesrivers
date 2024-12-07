@@ -1,0 +1,31 @@
+---
+title: "Wood-induced channel dynamism"
+description: |
+
+date: 2024-05-15
+# categories: [Remote Sensing]
+image: iowa2.png
+draft: false
+---
+
+  Almost 100 years of aerial imagery in Iowa show the impacts of a logjam in a single reach. Preliminary findings suggest that the reach with a logjam present multiple times throughout the image history has a dynamic channel planform.
+  
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics("iowa.png")
+```
+::: {.center-text .extra-small-text .dark-gray-text .topbr}
+Historical channel margins of a dynamic reach buffered by agricultural fields.
+:::
+:::
+  Wood loads have been reduced in river corridors directly through wood removal and indirectly through deforestation for centuries. Agricultural regions are especially impacted. Our study site is a unique reach in Iowa that has consistently had logjams form in the same location over decades. There is a rich history of a meandering and bifurcation associated with this logjam. In the field we identified floodplain forests made up of diverse species and age classes. 
+  
+
+***This work is in-progress, stay tuned for upcoming presentations and publications!***
+
+{{< video mobilewood.mp4 title='Wood transport'>}}
+
+::: {.center-text .extra-small-text .dark-gray-text}
+Wood transport during a high flow.
+:::

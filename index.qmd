@@ -1,16 +1,18 @@
 ---
-project:
-  type: website
-  output-dir: docs
 
-  about:
-    template: "jolla"
-    image: "media/profile.jpg"
-    links:
-    - icon: envelope
-      href: mailto:striant@colostate.edu
-    - icon: github
-      href: https://github.com/shaylatriant
 ---
 
-I'm a fluvial geomorphologist broadly studying biophysical interactions in river corridors. I use a combination of field and remote methods to understand river forms and processes in natural and altered river systems.
+<style>
+  body {
+  background-image: url("media/swan2.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+</style>
+
+
+
+::: {.left-column-main .light-text}
+I'm a fluvial geomorphologist studying biophysical interactions in river corridors. I use a combination of field and remote methods to understand river forms and processes in natural and altered river systems.
+:::

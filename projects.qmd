@@ -1,0 +1,32 @@
+---
+listing:
+  contents: projects
+  feed: true
+  sort: "date desc"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 300
+  date-format: medium
+  #categories: numbered
+  sort-ui: false
+  filter-ui: false
+  grid-columns: 3
+page-layout: full
+title-block-banner: true
+---
+
+<style>
+
+body {
+  background-image: url("media/wetgravel.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh; /* Ensure the body takes up the full height of the viewport */
+  display: flex;
+  flex-direction: column;
+}
+
+</style>

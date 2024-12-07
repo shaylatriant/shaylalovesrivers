@@ -1,0 +1,13 @@
+---
+title: "Floodplain phosphorus deposition"
+description: |
+
+date: 2021-04-25
+# categories: [Shiny]
+image: floodplain.png
+draft: false 
+---
+
+  Phosphorus delivery is a major water quality concern in the Lake Champlain basin. We quantified sediment and associated P deposition on floodplains to understand drivers of nutrient attenuation.
+
+***Read more about it in [Earth Surface Processes and Landforms](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.5519)***

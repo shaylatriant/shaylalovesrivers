@@ -1,0 +1,75 @@
+---
+lightbox: true
+---
+
+::: {.grid-layout}
+<style>
+  /* Remove any margins or padding around images */
+  .quarto img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Remove any gaps or spaces in the layout */
+  .quarto .column {
+    padding: 0;
+    margin: 0;
+  }
+
+  <!-- /* Optional: if you want to control the space between the images */ -->
+  <!-- .quarto .column img { -->
+  <!--   margin-bottom: 10px; /* Adjust as needed */ -->
+  <!-- } -->
+</style>
+
+![Logjam on Goat Creek, MT](photos/goat1.jpg){group="my-group"}
+
+![Cienaga Barbacoas, Colombia](photos/colombia1.jpeg){group="my-group"}
+
+
+![New River, VA](photos/newriver.jpg){group="my-group"}
+
+
+![PALS, Elkhorn, CO](photos/elkhorn.jpg){group="my-group"}
+
+
+![Migration along the South Platte, NE](photos/nebraska.jpg){group="my-group"}
+
+
+![Inchworms at Little Beaver Creek, CO](photos/field_lbc_inchworms.jpg){group="my-group"}
+
+
+![In-channel wood as a germination site, MT](photos/loggermination.jpg){group="my-group"}
+
+![Beaver chew, IA](photos/iowa_beaver.jpg){group="my-group"}
+
+
+![Pothole, UT](photos/utah.jpg){group="my-group"}
+
+![River residents, Okavango Delta](photos/okavango.jpg){group="my-group"}
+
+
+
+![San Juan, UT](photos/sanjuan.jpg){group="my-group"}
+
+![Braided river, Iceland](photos/braidedriver.jpg){group="my-group"}
+
+
+![Gila River, NM](photos/gila.jpg){group="my-group"}
+
+![Bird nest, CO](photos/birdnest.jpg){group="my-group"}
+
+![Car trouble, Botswana](photos/okavango2.jpg){group="my-group"}
+
+![Pre-flight drone, MT](photos/drone.jpg){group="my-group"}
+
+
+![Lost Creek logjam, MT](photos/lostjam.jpg){group="my-group"}
+
+![Pebble count, MT](photos/pebblecount.jpg){group="my-group"}
+
+
+:::
