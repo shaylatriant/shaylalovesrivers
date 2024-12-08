@@ -71,6 +71,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-S0GESNHGSC"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-S0GESNHGSC', { 'anonymize_ip': true});
+</script>
 
 
 </head>
@@ -155,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 <p><strong><em>Find out more at <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1511942">AGU in December</a>! This work is in-progress, stay tuned for upcoming presentations and publications!</em></strong></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="nsv_logjam.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="my-group" title="Channel-spanning logjam on the N St.&nbsp;Vrain in Rocky Mountain N.P."><img src="nsv_logjam.png" class="img-fluid figure-img" alt="Channel-spanning logjam on the N St.&nbsp;Vrain in Rocky Mountain N.P."></a></p>
+<p><a href="nsv_logjam.png" class="lightbox" data-gallery="my-group" data-glightbox="description: .lightbox-desc-1" title="Channel-spanning logjam on the N St.&nbsp;Vrain in Rocky Mountain N.P."><img src="nsv_logjam.png" class="img-fluid figure-img" alt="Channel-spanning logjam on the N St.&nbsp;Vrain in Rocky Mountain N.P."></a></p>
 <figcaption>Channel-spanning logjam on the N St.&nbsp;Vrain in Rocky Mountain N.P.</figcaption>
 </figure>
 </div>
@@ -612,7 +621,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom","loop":false,"selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","selector":".lightbox","loop":false,"descPosition":"bottom","closeEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
