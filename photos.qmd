@@ -25,6 +25,13 @@ lightbox: true
   <!-- } -->
 </style>
 
+![Glacial, Italy](photos/dolomites.jpg){group="my-group"}
+
+![Yuba River, CA](photos/yuba.jpg){group="my-group"}
+
+![River Rhine floodplain, Netherlands](photos/rhine.jpg){group="my-group"}
+
+
 ![Logjam on Goat Creek, MT](photos/goat1.jpg){group="my-group"}
 
 ![Cienaga Barbacoas, Colombia](photos/colombia1.jpeg){group="my-group"}

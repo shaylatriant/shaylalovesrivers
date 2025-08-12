@@ -1,0 +1,31 @@
+---
+title: "Bedform topography and wood"
+description: |
+
+date: 2025-06-15
+# categories: [Remote Sensing]
+image: pools.jpg
+draft: false
+---
+
+Bedforms create critical habitat diversity for aquatic species. Habitat-driven management decisions often aim to create many pools for fish, especially species that require deep, slow water as flood refuge. While wood and quantity of pools has been shown across many regions, the relationship between wood and habitat quality is less well understood.
+  
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics("bulltrout.png")
+```
+::: {.center-text .extra-small-text .dark-gray-text .topbr}
+Bull trout (Salvelinus confluentus) under a logjam.
+:::
+:::
+
+![Scour pool formed around a rootwad, Montana](pools.jpg){group="my-group"}
+
+::: {.center-text .extra-small-text .dark-gray-text}
+Rootwad in Montana
+
+:::
+
+***This work is in-progress, see upcoming presentations at ISRS in October and AGU in December.***
+
