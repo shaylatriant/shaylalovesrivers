@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Shayla Triantafillou"
+  site-url: https://shaylatriant.github.io/shaylalovesrivers/
   navbar:
     left:
       - href: index.qmd
