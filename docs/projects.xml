@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Shayla Triantafillou</title>
+<link>https://shaylatriant.github.io/shaylalovesrivers/projects.html</link>
+<atom:link href="https://shaylatriant.github.io/shaylalovesrivers/projects.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Sun, 15 Jun 2025 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>Bedform topography and wood</title>
+  <link>https://shaylatriant.github.io/shaylalovesrivers/projects/2025_5_WoodPools/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Bedforms create critical habitat diversity for aquatic species. Habitat-driven management decisions often aim to create many pools for fish, especially species that require deep, slow water as flood refuge. While wood and quantity of pools has been shown across many regions, the relationship between wood and habitat quality is less well understood.</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://shaylatriant.github.io/shaylalovesrivers/projects/2025_5_WoodPools/bulltrout.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="center-text extra-small-text dark-gray-text topbr">
+<p>Bull trout (Salvelinus confluentus) under a logjam.</p>
+</div>
+</div></div><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://shaylatriant.github.io/shaylalovesrivers/projects/2025_5_WoodPools/pools.jpg" class="img-fluid figure-img" data-group="my-group"></p>
+<figcaption>Scour pool formed around a rootwad, Montana</figcaption>
+</figure>
+</div>
+<div class="center-text extra-small-text dark-gray-text">
+<p>Rootwad in Montana</p>
+</div>
+<p><strong><em>This work is in-progress, see upcoming presentations at ISRS in October and AGU in December.</em></strong></p>
+
+
+
+ ]]></description>
+  <guid>https://shaylatriant.github.io/shaylalovesrivers/projects/2025_5_WoodPools/</guid>
+  <pubDate>Sun, 15 Jun 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://shaylatriant.github.io/shaylalovesrivers/projects/2025_5_WoodPools/pools.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Logjam process domains</title>
+  <link>https://shaylatriant.github.io/shaylalovesrivers/projects/2024_12_LogjamProcessDomains/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Logjams, formerly abundant in forested catchments, serve important hydrologic, geomorphic, and ecological roles. We delineated spatial and temporal domains for logjam storage in the Southern Rockies. Additionally, we explored the implications of these analyses with smaller datasets.</p>
+<p>We found that elevation, morphology, and disturbance history acted as controls on the spatial distribution of logjams storage. When we iteratively decreased the sample size, we found that we were able to delineate these same spatial process domains using anywhere from 50-200 reaches rather than the full dataset of over 300 reaches. This implies that spatial controls on logjam storage could be identified for this region with substantially fewer than 300 reaches, which is a far more achievable sample size from a fieldwork perspective.</p>
+<p><strong><em>Find out more at <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1511942">AGU in December</a>! This work is in-progress, stay tuned for upcoming presentations and publications!</em></strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="nsv_logjam.png" class="lightbox" data-gallery="my-group" title="Channel-spanning logjam on the N St.&nbsp;Vrain in Rocky Mountain N.P."><img src="https://shaylatriant.github.io/shaylalovesrivers/projects/2024_12_LogjamProcessDomains/nsv_logjam.png" class="img-fluid figure-img" alt="Channel-spanning logjam on the N St.&nbsp;Vrain in Rocky Mountain N.P."></a></p>
+<figcaption>Channel-spanning logjam on the N St.&nbsp;Vrain in Rocky Mountain N.P.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://shaylatriant.github.io/shaylalovesrivers/projects/2024_12_LogjamProcessDomains/</guid>
+  <pubDate>Sun, 01 Dec 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://shaylatriant.github.io/shaylalovesrivers/projects/2024_12_LogjamProcessDomains/nsv_logjam.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Wood-induced channel dynamism</title>
+  <link>https://shaylatriant.github.io/shaylalovesrivers/projects/2024_ChannelDynamism/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Almost 100 years of aerial imagery in Iowa show the impacts of a logjam in a single reach. Preliminary findings suggest that the reach with a logjam present multiple times throughout the image history has a dynamic channel planform.</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://shaylatriant.github.io/shaylalovesrivers/projects/2024_ChannelDynamism/iowa.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="center-text extra-small-text dark-gray-text topbr">
+<p>Historical channel margins of a dynamic reach buffered by agricultural fields.</p>
+</div>
+</div></div><p>Wood loads have been reduced in river corridors directly through wood removal and indirectly through deforestation for centuries. Agricultural regions are especially impacted. Our study site is a unique reach in Iowa that has consistently had logjams form in the same location over decades. There is a rich history of a meandering and bifurcation associated with this logjam. In the field we identified floodplain forests made up of diverse species and age classes.</p>
+<p><strong><em>This work is in-progress, stay tuned for upcoming presentations and publications!</em></strong></p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title="Wood transport"><source src="mobilewood.mp4"></video></div>
+<div class="center-text extra-small-text dark-gray-text">
+<p>Wood transport during a high flow.</p>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://shaylatriant.github.io/shaylalovesrivers/projects/2024_ChannelDynamism/</guid>
+  <pubDate>Wed, 15 May 2024 06:00:00 GMT</pubDate>
+  <media:content url="https://shaylatriant.github.io/shaylalovesrivers/projects/2024_ChannelDynamism/iowa2.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
+<item>
+  <title>River resilience to wildfire</title>
+  <link>https://shaylatriant.github.io/shaylalovesrivers/projects/2024_05_WildfireResilience/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Wildfire causes a cascade of disturbances that threaten water quality, human infrastructure, and life. We surveyed geomorphic, vegetation, and burn characteristics from the headwaters to the outlets of catchments that burned in the Cameron Peak fire in 2020s. Reach-scale characteristics rather than catchment-scale were best correlated with severity of flooding.</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><a href="jacks.JPG" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://shaylatriant.github.io/shaylalovesrivers/projects/2024_05_WildfireResilience/jacks.JPG" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="center-text extra-small-text dark-gray-text topbr">
+<p>Water ponded behind beaver berms at the most resilient catchment, Jack’s Gulch</p>
+</div>
+</div></div><p>Our conceptualization of the wildfire disturbance cascade includes characteristics that drive and resist response to disturbance. As driving characteristics like burn extent or precipitation increase, we expect that a catchment would respond with a larger flood that causes more geomorphic change. This would indicate a less resilient catchment. The inverse is implied to be true, where we conceptulize resilience as increasing with increasing resisting characteristics.</p>
+<p>Within most of our seven study catchments, we found that more resilient catchments were made up of reaches with lower slopes, wider floodplains, more beaver berms and logjams, and more multi-stem deciduous vegetation like willow and alder.</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><a href="bh.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://shaylatriant.github.io/shaylalovesrivers/projects/2024_05_WildfireResilience/bh.jpg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="center-text extra-small-text dark-gray-text topbr">
+<p>Debris fan at the least resilient catchment, Black Hollow. (Photo courtesy of USGS)</p>
+</div>
+</div></div><p><strong><em>Read more about it in <a href="https://doi.org/10.1016/j.geomorph.2024.109446">Geomorphology</a> and on the Colorado Riparian Association <a href="https://coloradoriparian.org/2024/01/09/a-watershed-is-more-than-the-sum-of-its-reaches-understanding-post-fire-resilience-at-different-scales/">Green Line Blog</a></em></strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="lbccover.jpg" class="lightbox" data-gallery="my-group" title="Spring runoff activating multiple floodplain flow paths at Little Beaver Creek, a more resilient catchment"><img src="https://shaylatriant.github.io/shaylalovesrivers/projects/2024_05_WildfireResilience/lbccover.jpg" class="img-fluid figure-img" alt="Spring runoff activating multiple floodplain flow paths at Little Beaver Creek, a more resilient catchment"></a></p>
+<figcaption>Spring runoff activating multiple floodplain flow paths at Little Beaver Creek, a more resilient catchment</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://shaylatriant.github.io/shaylalovesrivers/projects/2024_05_WildfireResilience/</guid>
+  <pubDate>Wed, 01 May 2024 06:00:00 GMT</pubDate>
+  <media:content url="https://shaylatriant.github.io/shaylalovesrivers/projects/2024_05_WildfireResilience/lbccover.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Floodplain phosphorus deposition</title>
+  <link>https://shaylatriant.github.io/shaylalovesrivers/projects/2021_05_FloodplainPhosphorus/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Phosphorus delivery is a major water quality concern in the Lake Champlain basin. We quantified sediment and associated P deposition on floodplains to understand drivers of nutrient attenuation.</p>
+<p><strong><em>Read more about it in <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/esp.5519">Earth Surface Processes and Landforms</a></em></strong></p>
+
+
+
+ ]]></description>
+  <guid>https://shaylatriant.github.io/shaylalovesrivers/projects/2021_05_FloodplainPhosphorus/</guid>
+  <pubDate>Sun, 25 Apr 2021 06:00:00 GMT</pubDate>
+  <media:content url="https://shaylatriant.github.io/shaylalovesrivers/projects/2021_05_FloodplainPhosphorus/floodplain.png" medium="image" type="image/png" height="183" width="144"/>
+</item>
+</channel>
+</rss>
