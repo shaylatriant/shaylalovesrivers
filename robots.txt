@@ -1,1 +1,1 @@
-Sitemap: fluvialshayla.com/sitemap.xml
+Sitemap: https://github.com/shaylatriant/shaylalovesrivers.git/sitemap.xml

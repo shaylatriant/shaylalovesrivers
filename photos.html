@@ -179,18 +179,8 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>Cienaga Barbacoas, Colombia</figcaption>
 </figure>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="photos/newriver.jpg" class="lightbox" data-gallery="my-group" title="New River, VA"><img src="photos/newriver.jpg" class="img-fluid figure-img" alt="New River, VA"></a></p>
-<figcaption>New River, VA</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="photos/elkhorn.jpg" class="lightbox" data-gallery="my-group" title="PALS, Elkhorn, CO"><img src="photos/elkhorn.jpg" class="img-fluid figure-img" alt="PALS, Elkhorn, CO"></a></p>
-<figcaption>PALS, Elkhorn, CO</figcaption>
-</figure>
-</div>
+<p><img src="photos/newriver.jpg" class="img-fluid" data-group="my-group" alt="New River, VA"> <img src="photos/colorado_river.jpg" class="img-fluid" data-group="my-group" alt="Colorado River, AZ"></p>
+<p><img src="photos/calcified_dams.jpg" class="img-fluid" data-group="my-group" alt="Calcifed beaver dams, UT"> <img src="photos/mifo_logjam.jpg" class="img-fluid" data-group="my-group" alt="Logjam, ID"> <img src="photos/salamander.jpg" class="img-fluid" data-group="my-group" alt="Salamander survey, VT"> <img src="photos/paleo_channel.jpg" class="img-fluid" data-group="my-group" alt="Paleo channel, CO"> <img src="photos/electro_fishing.jpg" class="img-fluid" data-group="my-group" alt="Electrofishing, MA"> <img src="photos/elkhorn.jpg" class="img-fluid" data-group="my-group" alt="PALS, Elkhorn, CO"></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="photos/nebraska.jpg" class="lightbox" data-gallery="my-group" title="Migration along the South Platte, NE"><img src="photos/nebraska.jpg" class="img-fluid figure-img" alt="Migration along the South Platte, NE"></a></p>
@@ -370,7 +360,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("fluvialshayla\.com");
+      var filterRegex = new RegExp("https:\/\/github\.com\/shaylatriant\/shaylalovesrivers\.git");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
