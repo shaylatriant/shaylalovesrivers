@@ -8,7 +8,7 @@ publish:
 
 website:
   title: "Shayla Triantafillou"
-  site-url: fluvialshayla.com
+  site-url: https://github.com/shaylatriant/shaylalovesrivers.git
   navbar:
     left:
       - href: index.qmd

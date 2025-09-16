@@ -38,8 +38,13 @@ lightbox: true
 
 
 ![New River, VA](photos/newriver.jpg){group="my-group"}
+![Colorado River, AZ](photos/colorado_river.jpg){group="my-group"}
 
-
+![Calcifed beaver dams, UT](photos/calcified_dams.jpg){group="my-group"}
+![Logjam, ID](photos/mifo_logjam.jpg){group="my-group"}
+![Salamander survey, VT](photos/salamander.jpg){group="my-group"}
+![Paleo channel, CO](photos/paleo_channel.jpg){group="my-group"}
+![Electrofishing, MA](photos/electro_fishing.jpg){group="my-group"}
 ![PALS, Elkhorn, CO](photos/elkhorn.jpg){group="my-group"}
 
 
