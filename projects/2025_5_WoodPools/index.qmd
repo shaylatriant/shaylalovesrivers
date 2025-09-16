@@ -22,10 +22,6 @@ Bull trout (Salvelinus confluentus) under a logjam.
 
 ![Scour pool formed around a rootwad, Montana](pools.jpg){group="my-group"}
 
-::: {.center-text .extra-small-text .dark-gray-text}
-Rootwad in Montana
-
-:::
 
 ***This work is in-progress, see upcoming presentations at ISRS in October and AGU in December.***
 

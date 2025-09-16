@@ -1,10 +1,14 @@
 project:
   type: website
   output-dir: docs
+  
+publish:
+  provider: gh-pages
+  repo-url: https://github.com/shaylatriant/shaylalovesrivers.git
 
 website:
   title: "Shayla Triantafillou"
-  site-url: https://shaylatriant.github.io/shaylalovesrivers/
+  site-url: fluvialshayla.com
   navbar:
     left:
       - href: index.qmd

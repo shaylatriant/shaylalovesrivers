@@ -25,7 +25,7 @@ lightbox: true
   <!-- } -->
 </style>
 
-![Glacial, Italy](photos/dolomites.jpg){group="my-group"}
+![Glacial valley, Italy](photos/dolomites.jpg){group="my-group"}
 
 ![Yuba River, CA](photos/yuba.jpg){group="my-group"}
 
