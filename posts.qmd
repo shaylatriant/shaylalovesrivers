@@ -1,0 +1,21 @@
+---
+title: "posts"
+# listing:
+  # contents: posts
+  # sort: "date desc"
+  # type: default
+  # image-align: "right"
+  # max-description-length: 175
+  # date-format: short
+  # categories: true
+  #   sort-ui: false
+  # filter-ui: false
+page-layout: full
+title-block-banner: false
+format: html
+---
+
+::: {.cadet-gray-bg}
+**October 2025** - I attended the [7th Symposium of the International Society for River Science](https://riversociety.net/) at the University of California, Davis.
+:::
+

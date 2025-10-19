@@ -12,6 +12,7 @@ $icterine: #F0F66E;
 $dark-gray: #4D5651;
 $brown-sugar: #BE6E46;
 $slate-gray: #7286A0;
+$cadet-gray: #9EABBD
 $ebony: #59594A;
 
 // Base document colors
@@ -165,4 +166,14 @@ h3 {
 .topbr {
     display: block;
     margin-top: 1em;
+}
+
+// gray background; was .quote-text-bg
+.cadet-gray-bg {
+  background-color: $cadet-gray; //rgba(166, 164, 161, 0.4);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 8px;
+  border-radius: 15px;
 }
