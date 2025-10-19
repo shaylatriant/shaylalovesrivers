@@ -1,19 +1,16 @@
 /*-- scss:defaults --*/
 
-// Colors - pick new ones that I like! These are from: https://ucsb-meds.github.io/customizing-quarto-websites/#/define-colors
+// Colors -  from: https://ucsb-meds.github.io/customizing-quarto-websites/#/define-colors
 $brown: #9D9C62;
 $light-blue: #A8C686;
 $dark-cream: #E2EFDE;
 $cream: #F3F8F1;
 $gray: #808F87;
 $purple: #9158A2;
-$orange: #E4572E;
-$icterine: #F0F66E;
 $dark-gray: #4D5651;
 $brown-sugar: #BE6E46;
 $slate-gray: #7286A0;
-$cadet-gray: #9EABBD;
-$ebony: #59594A;
+$french-gray: #B6C0CD;
 
 // Base document colors
 $navbar-bg: $slate-gray; // navbar background
@@ -170,7 +167,7 @@ h3 {
 
 // gray background; was .quote-text-bg
 .cadet-gray-bg {
-  background-color: $cadet-gray; //rgba(166, 164, 161, 0.4);
+  background-color: $french-gray; //rgba(166, 164, 161, 0.4);
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;
