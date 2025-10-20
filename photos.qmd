@@ -41,6 +41,15 @@ lightbox: true
 ![New River, VA](photos/newriver.jpg){group="my-group"}
 
 
+![Mad River, VT](photos/mad_river.jpg){group="my-group"}
+
+
+![Bruarfoss, Iceland](photos/bruarfoss.jpg){group="my-group"}
+
+
+![Tuolumne floodplain, CA](photos/tuolumne.jpg){group="my-group"}
+
+
 ![Colorado River, AZ](photos/colorado_river.jpg){group="my-group"}
 
 
@@ -70,10 +79,21 @@ lightbox: true
 
 ![In-channel wood as a germination site, MT](photos/loggermination.jpg){group="my-group"}
 
+
 ![Beaver chew, IA](photos/iowa_beaver.jpg){group="my-group"}
 
 
 ![Pothole, UT](photos/utah.jpg){group="my-group"}
+
+
+![Rock hunting, UT](photos/rock_hunting.jpg){group="my-group"}
+
+
+![San Juan River, UT](photos/san_juan.jpg){group="my-group"}
+
+
+![Wildfire, ID](photos/mifo_fire.jpg){group="my-group"}
+
 
 ![River residents, Okavango Delta](photos/okavango.jpg){group="my-group"}
 
