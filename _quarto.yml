@@ -17,8 +17,8 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
-      - href: posts.qmd
-        text: Posts
+      - href: news.qmd
+        text: News
       - href: photos.qmd
         text: Photos
   search:

@@ -1,0 +1,44 @@
+---
+title: "News"
+format: html
+---
+
+::: {.blob-bg}
+**October 2025:** I attended the [7th Symposium of the International Society for River Science](https://riversociety.net/) at the University of California, Davis. I presented research relating [bed configuration to in-channel wood](https://shaylatriant.github.io/shaylalovesrivers/projects/2025_5_WoodPools/index.html).
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
+**July 2025:** Through the Advanced Studies Institute, I learned about *International Approaches to Freshwater Ecosystem Sustainability & Management* in Davis California, Trento, Italy, and Delft, Netherlands funded by the NSF.
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
+**May 2025:** I participated in the [Earth Surface Process Institute (ESPIn)](https://csdms.colorado.edu/wiki/ESPIn) at CU Boulder focusing on numerical modeling and open source science practices.
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
+**April 2025:** My MS thesis won the Warner College of Natural Resources [Outstanding Master's Thesis Award](https://warnercnr.source.colostate.edu/warner-college-2025-all-college-award-winners/)!
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
+**April 2025:** The Tobacco Root Geological Society awarded a scholarship to complete additional fieldwork in Montana
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
+**December 2024:** I presented research at AGU about [delineating logjam process domains](https://shaylatriant.github.io/shaylalovesrivers/projects/2024_12_LogjamProcessDomains/index.html) in Washington, D.C.
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
+**September 2024:** Check out our most recent [publication in Geomorphology](https://doi.org/10.1016/j.geomorph.2024.109446) linking geomorphic characteristics across spatial scales to catchment-scale resilience
+:::

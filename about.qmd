@@ -20,7 +20,9 @@
 ::: {.right-column}
 Water has played a central role in my life in everything from recreation to pursuing a career in research. I've always taken every opportunity to get my feet wet. My first foray into scientific research was assisting with a project studying terrapins in the Chesapeake Bay. This work opened a door to field research and set me on a path towards river science.
 
-As a current PhD student in the [Fluvial Geomorphology Group](https://sites.warnercnr.colostate.edu/fluvial-geomorphology/) at Colorado State University (CSU), I'm motivated by applicable research that investigates river corridor forms and processes across scales.
+As a current PhD student in the [Fluvial Geomorphology Group](https://sites.warnercnr.colostate.edu/fluvial-geomorphology/) at Colorado State University (CSU), I'm motivated by applicable research that investigates river corridor forms and processes across scales. Check out my [research projects](https://shaylatriant.github.io/shaylalovesrivers/projects.html), [current updates](https://shaylatriant.github.io/shaylalovesrivers/news.html), and [photos from the field](https://shaylatriant.github.io/shaylalovesrivers/photos.html).
+
+<div style="border-top: 1px solid #ccc; margin: 1.5rem 0;"></div>
 
 ### Education
 
@@ -33,5 +35,4 @@ As a current PhD student in the [Fluvial Geomorphology Group](https://sites.warn
  {{< fa graduation-cap >}} **BA in Geography, 2021**  
   University of Vermont
 :::
-
 :::

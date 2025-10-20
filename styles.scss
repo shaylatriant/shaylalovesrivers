@@ -1,21 +1,25 @@
 /*-- scss:defaults --*/
 
 // Colors -  from: https://ucsb-meds.github.io/customizing-quarto-websites/#/define-colors
-$brown: #9D9C62;
-$light-blue: #A8C686;
+$light-green: #E2F8A0;
+$light-blue: #7CB6A8;
+$slate-gray: #384E77;
 $dark-cream: #E2EFDE;
-$cream: #F3F8F1;
-$gray: #808F87;
-$purple: #9158A2;
-$dark-gray: #4D5651;
-$brown-sugar: #BE6E46;
-$slate-gray: #7286A0;
 $french-gray: #B6C0CD;
+$cream: #F3F8F1;
+$purple: #9158A2;
+$brown-sugar: #BE6E46;
+
+$gray: #808F87;
+$dark-gray: #4D5651;
+
+
+
 
 // Base document colors
 $navbar-bg: $slate-gray; // navbar background
 $navbar-fg: $cream; // navbar foreground elements
-$navbar-hl: $purple; // highlight color when hovering over navbar links
+$navbar-hl: $light-green; // highlight color when hovering over navbar links
 $body-bg: $cream; // page background 
 $body-color: $dark-gray; // page text 
 $footer-bg: $cream; // footer
@@ -165,12 +169,14 @@ h3 {
     margin-top: 1em;
 }
 
+
 // gray background; was .quote-text-bg
-.cadet-gray-bg {
+.blob-bg {
   background-color: $french-gray; //rgba(166, 164, 161, 0.4);
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;
   padding-left: 8px;
   border-radius: 15px;
+  overflow: auto;
 }
