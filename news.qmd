@@ -4,6 +4,18 @@ format: html
 ---
 
 ::: {.blob-bg}
+**December 2025:** I'm heading to AGU in New Orleans, LA to present on patterns of wood-induced pools. Come check out the Ecohydraulics and Ecomorphodynamics session on Wednesday, December 17th!
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
+**November 2025:** Check out our newest publication about [decay state of large wood in channels and floodplains](https://doi.org/10.1002/esp.70186) out today in Earth Surface Processes and Landforms.
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
 **October 2025:** I attended the [7th Symposium of the International Society for River Science](https://riversociety.net/) at the University of California, Davis. I presented research relating [bed configuration to in-channel wood](https://shaylatriant.github.io/shaylalovesrivers/projects/2025_5_WoodPools/index.html).
 :::
 
