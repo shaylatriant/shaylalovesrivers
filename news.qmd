@@ -7,7 +7,7 @@ format: html
 :::{.column-margin}
 ```{r}
 #| echo: false
-knitr::include_graphics("media/tuolomne.jpg")
+knitr::include_graphics("media/tuolumne.jpg")
 ```
 ::: {.center-text .extra-small-text .dark-gray-text .topbr}
 Tuolomne River floodplain during ISRS field trip
