@@ -23,7 +23,7 @@ Water ponded behind beaver berms at the most resilient catchment, Jack's Gulch
 
 Our conceptualization of the wildfire disturbance cascade includes characteristics that drive and resist response to disturbance. As driving characteristics like burn extent or precipitation increase, we expect that a catchment would respond with a larger flood that causes more geomorphic change. This would indicate a less resilient catchment. The inverse is implied to be true, where we conceptulize resilience as increasing with increasing resisting characteristics. 
   
-  Within most of our seven study catchments, we found that more resilient catchments were made up of reaches with lower slopes, wider floodplains, more beaver berms and logjams, and more multi-stem deciduous vegetation like willow and alder.
+Within most of our seven study catchments, we found that more resilient catchments were made up of reaches with lower slopes, wider floodplains, more beaver berms and logjams, and more multi-stem deciduous vegetation like willow and alder.
   
 :::{.column-margin}
 ```{r}
@@ -34,8 +34,10 @@ knitr::include_graphics("bh.jpg")
 Debris fan at the least resilient catchment, Black Hollow. (Photo courtesy of USGS)
 :::
 :::
-  
-***Read more about it in [Geomorphology](https://doi.org/10.1016/j.geomorph.2024.109446) and on the Colorado Riparian Association [Green Line Blog](https://coloradoriparian.org/2024/01/09/a-watershed-is-more-than-the-sum-of-its-reaches-understanding-post-fire-resilience-at-different-scales/)***
 
+***Read more about this project in [Geomorphology](https://doi.org/10.1016/j.geomorph.2024.109446) and on the Colorado Riparian Association [Green Line Blog](https://coloradoriparian.org/2024/01/09/a-watershed-is-more-than-the-sum-of-its-reaches-understanding-post-fire-resilience-at-different-scales/)***
+
+Following fire, geomorphic resilience can be assessed by monitoring many components of a catchment. We discuss characteristics of uplands and river corridors that can be assessed and methods for doing so. ***Read more about it in [River Research and Applications](https://onlinelibrary.wiley.com/doi/full/10.1002/rra.70131)***
+  
 ![Spring runoff activating multiple floodplain flow paths at Little Beaver Creek, a more resilient catchment](lbccover.jpg){group="my-group"}
 
