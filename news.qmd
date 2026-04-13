@@ -3,35 +3,7 @@ title: "News"
 format: html
 ---
 
-
-:::{.column-margin}
-```{r}
-#| echo: false
-knitr::include_graphics("media/tuolumne.jpg")
-```
-::: {.center-text .extra-small-text .dark-gray-text .topbr}
-Tuolomne River floodplain during ISRS field trip
-:::
-
-
-:::{.column-margin}
-```{r}
-#| echo: false
-knitr::include_graphics("media/espin2025.jpg")
-```
-::: {.center-text .extra-small-text .dark-gray-text .topbr}
-2025 ESPIn cohort
-:::
-
-
-:::{.column-margin}
-```{r}
-#| echo: false
-knitr::include_graphics("media/columbine.jpg")
-```
-::: {.center-text .extra-small-text .dark-gray-text .topbr}
-Colorado columbine during post-fire resilience field work
-:::
+:::{.mostly-width-section}
 
 ::: {.blob-bg}
 **March 2026:** Check out our latest publication about [strategies for assessing post-fire resilience](https://onlinelibrary.wiley.com/doi/10.1002/rra.70131) in River Research and Applications.
@@ -95,4 +67,40 @@ Colorado columbine during post-fire resilience field work
 
 ::: {.blob-bg}
 **September 2024:** Check out our most recent [publication in Geomorphology](https://doi.org/10.1016/j.geomorph.2024.109446) linking geomorphic characteristics across spatial scales to catchment-scale resilience
+:::
+
+:::
+
+
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics("media/tuolumne.jpg")
+```
+::: {.center-text .extra-small-text .dark-gray-text .bottom-br}
+Tuolomne River floodplain during ISRS field trip
+:::
+
+<div style="height: 5rem;"></div>
+
+
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics("media/espin2025.jpg")
+```
+::: {.center-text .extra-small-text .dark-gray-text .bottom-br}
+2025 ESPIn cohort
+:::
+
+<div style="height: 5rem;"></div>
+
+
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics("media/columbine.jpg")
+```
+::: {.center-text .extra-small-text .dark-gray-text .bottom-br}
+Colorado columbine during post-fire resilience field work
 :::
