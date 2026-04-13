@@ -3,6 +3,48 @@ title: "News"
 format: html
 ---
 
+
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics("media/tuolomne.jpg")
+```
+::: {.center-text .extra-small-text .dark-gray-text .topbr}
+Tuolomne River floodplain during ISRS field trip
+:::
+
+
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics("media/espin2025.jpg")
+```
+::: {.center-text .extra-small-text .dark-gray-text .topbr}
+2025 ESPIn cohort
+:::
+
+
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics("media/columbine.jpg")
+```
+::: {.center-text .extra-small-text .dark-gray-text .topbr}
+Colorado columbine during post-fire resilience field work
+:::
+
+::: {.blob-bg}
+**March 2026:** Check out our latest publication about [strategies for assessing post-fire resilience](https://onlinelibrary.wiley.com/doi/10.1002/rra.70131) in River Research and Applications.
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
+**January 2026:** Check out our latest publication about [large wood process domains and sample sizes](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JF008491) over space and time in the Journal of Geophysical Research: Earth Surface.
+:::
+
+<div style="height: 0.5rem;"></div>
+
 ::: {.blob-bg}
 **December 2025:** I'm heading to AGU in New Orleans, LA to present on patterns of wood-induced pools. Come check out the Ecohydraulics and Ecomorphodynamics session on Wednesday, December 17th!
 :::
@@ -16,7 +58,7 @@ format: html
 <div style="height: 0.5rem;"></div>
 
 ::: {.blob-bg}
-**October 2025:** I attended the [7th Symposium of the International Society for River Science](https://riversociety.net/) at the University of California, Davis. I presented research relating [bed configuration to in-channel wood](https://shaylatriant.github.io/shaylalovesrivers/projects/2025_5_WoodPools/index.html).
+**October 2025:** I attended the [7th Symposium of the International Society for River Science](https://riversociety.net/) (ISRS) at the University of California, Davis. I presented research relating [bed configuration to in-channel wood](https://shaylatriant.github.io/shaylalovesrivers/projects/2025_5_WoodPools/index.html).
 :::
 
 <div style="height: 0.5rem;"></div>
