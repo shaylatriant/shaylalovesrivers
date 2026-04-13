@@ -9,7 +9,7 @@
 <link>https://github.com/shaylatriant/shaylalovesrivers.git/projects.html</link>
 <atom:link href="https://github.com/shaylatriant/shaylalovesrivers.git/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.42</generator>
+<generator>quarto-1.8.25</generator>
 <lastBuildDate>Sun, 15 Jun 2025 06:00:00 GMT</lastBuildDate>
 <item>
   <title>Bedform topography and wood</title>
@@ -26,7 +26,7 @@
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://github.com/shaylatriant/shaylalovesrivers.git/projects/2025_5_WoodPools/bulltrout.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/shaylatriant/shaylalovesrivers.git/projects/2025_5_WoodPools/bulltrout.png" class="img-fluid figure-img" width="237"></p>
 </figure>
 </div>
 </div>
@@ -89,7 +89,7 @@
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://github.com/shaylatriant/shaylalovesrivers.git/projects/2024_ChannelDynamism/iowa.png" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/shaylatriant/shaylalovesrivers.git/projects/2024_ChannelDynamism/iowa.png" class="img-fluid figure-img" width="212"></p>
 </figure>
 </div>
 </div>
@@ -126,7 +126,7 @@
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><a href="jacks.JPG" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://github.com/shaylatriant/shaylalovesrivers.git/projects/2024_05_WildfireResilience/jacks.JPG" class="img-fluid figure-img"></a></p>
+<p><a href="jacks.JPG" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://github.com/shaylatriant/shaylalovesrivers.git/projects/2024_05_WildfireResilience/jacks.JPG" class="img-fluid figure-img" width="2736"></a></p>
 </figure>
 </div>
 </div>
@@ -142,7 +142,7 @@
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><a href="bh.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://github.com/shaylatriant/shaylalovesrivers.git/projects/2024_05_WildfireResilience/bh.jpg" class="img-fluid figure-img"></a></p>
+<p><a href="bh.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://github.com/shaylatriant/shaylalovesrivers.git/projects/2024_05_WildfireResilience/bh.jpg" class="img-fluid figure-img" width="504"></a></p>
 </figure>
 </div>
 </div>
