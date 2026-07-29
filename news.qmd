@@ -6,6 +6,12 @@ format: html
 :::{.mostly-width-section}
 
 ::: {.blob-bg}
+**June 2026:** Read our review of headwater stream geomorphology out now in Earth Science Reviews: [Hydrogeomorphology of Headwater Streams](https://doi.org/10.1016/j.earscirev.2026.105586)
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
 **March 2026:** Check out our latest publication about [strategies for assessing post-fire resilience](https://onlinelibrary.wiley.com/doi/10.1002/rra.70131) in River Research and Applications.
 :::
 
