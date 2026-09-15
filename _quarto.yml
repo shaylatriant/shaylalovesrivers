@@ -15,8 +15,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: projects.qmd
-        text: Projects
+      - href: research.qmd
+        text: Research
       - href: news.qmd
         text: News
       - href: photos.qmd
@@ -47,7 +47,7 @@ editor: source
 
 collections:
   projects:
-    path: "projects"
+    path: "research"
     default: true
-    title: "Projects"
+    title: "Research"
 

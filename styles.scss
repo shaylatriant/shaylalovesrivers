@@ -74,10 +74,33 @@ h3 {
     padding-right: 20px; /* Adds space between left and right columns */
 }
 
+
 .right-column {
     width: 70%; /* Right column takes up 70% of the width */
     padding-left: 20px; /* Adds space between left and right columns */
 }
+
+.left-column-half {
+    width: 50%; /* Left column takes up 30% of the width */
+    padding-right: 20px; /* Adds space between left and right columns */
+}
+
+.right-column-half {
+    width: 50%; /* Left column takes up 30% of the width */
+    padding-left: 20px; /* Adds space between left and right columns */
+}
+
+.left-column-60 {
+    width: 60%; /* Left column takes up 30% of the width */
+    padding-right: 20px; /* Adds space between left and right columns */
+}
+
+.right-column-40 {
+    width: 40%; /* Right column takes up 70% of the width */
+    padding-left: 20px; /* Adds space between left and right columns */
+}
+
+
 .light-text {
   color: $dark-cream;
   letter-spacing: 3px;
@@ -110,6 +133,7 @@ h3 {
   gap: 15px; /* Add space between items */
   margin: 0 auto; /* Ensures the container is centered horizontally */
   justify-content: center; /* Centers the grid within the parent container */
+  padding: 15px;
 
   & > * {
     grid-column: span 1; /* Ensure each item spans one column */
@@ -179,4 +203,100 @@ h3 {
   padding-left: 8px;
   border-radius: 15px;
   overflow: auto;
+  
+}
+
+.three-column-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px; /* Adjust spacing between columns */
+  width: 100%;
+}
+
+// Ensure each column takes up exactly 1/3 of the row minus the gap
+.three-column-item {
+  flex: 1 1 calc(33.333% - 14px); 
+  box-sizing: border-box;
+  min-width: 250px; /* Breaks columns cleanly into a stack on small mobile screens */
+}
+
+
+.text-image-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 2rem 0;
+
+  .row-text {
+    order: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .row-images {
+    order: 2;
+    position: relative;
+    display: grid;
+    grid-auto-flow: column;
+    gap: 0.75rem;
+
+    figure {
+      position: relative;
+      margin: 0;
+      height: 100%;
+      display: grid;
+      grid-template-rows: minmax(0, 1fr) auto;
+      row-gap: 0.4rem;
+
+      img {
+        grid-row: 1;
+        width: 100%;
+        height: 100%;
+        min-height: 0;
+        object-fit: cover;
+        border-radius: 4px;
+      }
+
+      figcaption {
+        grid-row: 2;
+        font-size: 0.85rem;
+        color: #666;
+        text-align: center;
+      }
+    }
+  }
+
+  &.image-left {
+    .row-text  { order: 2; }
+    .row-images { order: 1; }
+  }
+
+  &.image-small {
+    grid-template-columns: 1.5fr 1fr;
+  }
+
+  &.image-left.image-small {
+    grid-template-columns: 1fr 1.5fr;
+  }
+
+  &.image-xsmall {
+    grid-template-columns: 2fr 1fr;
+  }
+
+  &.image-left.image-xsmall {
+    grid-template-columns: 1fr 2fr;
+  }
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+
+    .row-images {
+      height: 250px;
+      margin-top: 1rem;
+    }
+
+    .row-text, .row-images { order: unset !important; }
+  }
 }

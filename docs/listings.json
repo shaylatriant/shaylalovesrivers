@@ -7,5 +7,13 @@
       "/projects/2024_ChannelDynamism/index.html",
       "/projects/2024_05_WildfireResilience/index.html"
     ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/Disturbance/index.html",
+      "/research/Logjams/index.html",
+      "/research/RemoteSensing/index.html"
+    ]
   }
 ]
