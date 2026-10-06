@@ -10,7 +10,7 @@
 <atom:link href="https://github.com/shaylatriant/shaylalovesrivers.git/research.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 06 Oct 2026 20:07:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 20:15:39 GMT</lastBuildDate>
 <item>
   <title>River response to disturbance</title>
   <link>https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/</link>
@@ -75,7 +75,7 @@
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/</guid>
-  <pubDate>Tue, 06 Oct 2026 20:07:27 GMT</pubDate>
+  <pubDate>Tue, 06 Oct 2026 20:15:39 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/lbccover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -139,13 +139,13 @@
 <p>Marshall, A, RR Morrison, B Jones, <strong>S Triantafillou</strong>, E Wohl. (2024). Handheld LIDAR as a tool for characterizing wood‐rich river corridors. River Research and Applications. https://doi.org/10.1002/rra.4239</p>
 <p>Wohl, E, A Marshall, <strong>S Triantafillou</strong>, M Mobley, R Morrison. (2024). Distribution of logjams in relation to lateral connectivity in the river corridor. Geomorphology. https://doi.org/10.1016/j.geomorph.2024.109100</p>
 <p><strong>Triantafillou, S</strong>, E Wohl. (2026). Evaluating the sensitivity of process domains for logjams to spatial and temporal sample size in river networks of the Southern Rockies, USA. Journal of Geophysical Research: Earth Surface. https://doi.org/10.1029/2025JF008491</p>
-<p><strong>Triantafillou, S</strong>, E Wohl, DN Scott, A Marshall. (2026). Interacting effects of wood and channel geometry on pool depth in gravel-bed rivers. Earth Surface Processes and Landforms.</p>
+<p><strong>Triantafillou, S</strong>, E Wohl, DN Scott, A Marshall. (2026). Interacting effects of wood and channel geometry on pool depth in gravel-bed rivers. Earth Surface Processes and Landforms. http://dx.doi.org/10.1002/esp.70424</p>
 
 
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/Logjams/</guid>
-  <pubDate>Tue, 06 Oct 2026 20:07:27 GMT</pubDate>
+  <pubDate>Tue, 06 Oct 2026 20:15:39 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/Logjams/pools.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -211,7 +211,7 @@
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/RemoteSensing/</guid>
-  <pubDate>Tue, 06 Oct 2026 20:07:27 GMT</pubDate>
+  <pubDate>Tue, 06 Oct 2026 20:15:39 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/RemoteSensing/iowa2.png" medium="image" type="image/png" height="73" width="144"/>
 </item>
 </channel>

@@ -85,7 +85,7 @@ https://doi.org/10.1016/j.geomorph.2024.109100
 
 **Triantafillou, S**, E Wohl. (2026). Evaluating the sensitivity of process domains for logjams to spatial and temporal sample size in river networks of the Southern Rockies, USA. Journal of Geophysical Research: Earth Surface. https://doi.org/10.1029/2025JF008491
 
-**Triantafillou, S**, E Wohl, DN Scott, A Marshall. (2026). Interacting effects of wood and channel geometry on pool depth in gravel-bed rivers. Earth Surface Processes and Landforms.
+**Triantafillou, S**, E Wohl, DN Scott, A Marshall. (2026). Interacting effects of wood and channel geometry on pool depth in gravel-bed rivers. Earth Surface Processes and Landforms. http://dx.doi.org/10.1002/esp.70424
 
 
 
