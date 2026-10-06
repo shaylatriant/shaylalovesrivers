@@ -72,6 +72,5 @@ Bedforms in rivers are produced by the interaction between hydraulic forces, bed
 
 Marshall, A, RR Morrison, B Jones, **S Triantafillou**, E Wohl. (2024). Handheld LIDAR as a tool for characterizing wood‐rich river corridors. River Research and Applications. [https://doi.org/10.1002/rra.4239](https://doi.org/10.1002/rra.4239)
 
-
-
+**Triantafillou, S**, E Wohl, DN Scott, A Marshall. (2026). Interacting effects of wood and channel geometry on pool depth in gravel-bed rivers. Earth Surface Processes and Landforms.
 

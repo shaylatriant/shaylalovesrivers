@@ -10,7 +10,7 @@
 <atom:link href="https://github.com/shaylatriant/shaylalovesrivers.git/research.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 15 Sep 2026 22:23:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 20:07:27 GMT</lastBuildDate>
 <item>
   <title>River response to disturbance</title>
   <link>https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/</link>
@@ -69,12 +69,13 @@
 <p><strong>Triantafillou, S</strong>, E Wohl. (2024). Geomorphic characteristics influencing post-fire river response in mountain streams, Geomorphology. https://doi.org/10.1016/j.geomorph.2024.1094467</p>
 <p>Wohl, E, <strong>S Triantafillou</strong>, A Thornton-Dunwoody, C Mertz, K Larkin, W Keenan, S Griffin, D Davis, L Blehm. (2026). Strategies for assessing post-wildfire geomorphic resilience in semi-arid rivers, River Research and Applications. http://doi.org/10.1002/rra.70131</p>
 <p>Wohl, E, A Marshall, <strong>S Triantafillou</strong>, M Mobley, R Morrison. (2024). Distribution of logjams in relation to lateral connectivity in the river corridor. Geomorphology.</p>
+<p>Flitcroft, R, A Goodman, BE Penaluna, …, <strong>S Triantafillou</strong>, E Howe, D Roon, P North, C Chandler, A Ettinger. <em>In review.</em> Linkages among processes affecting forested watersheds, wildfire, and salmonid ecology past and present with implications for management. BioScience.</p>
 
 
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/</guid>
-  <pubDate>Tue, 15 Sep 2026 22:23:10 GMT</pubDate>
+  <pubDate>Tue, 06 Oct 2026 20:07:27 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/lbccover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -138,13 +139,13 @@
 <p>Marshall, A, RR Morrison, B Jones, <strong>S Triantafillou</strong>, E Wohl. (2024). Handheld LIDAR as a tool for characterizing wood‐rich river corridors. River Research and Applications. https://doi.org/10.1002/rra.4239</p>
 <p>Wohl, E, A Marshall, <strong>S Triantafillou</strong>, M Mobley, R Morrison. (2024). Distribution of logjams in relation to lateral connectivity in the river corridor. Geomorphology. https://doi.org/10.1016/j.geomorph.2024.109100</p>
 <p><strong>Triantafillou, S</strong>, E Wohl. (2026). Evaluating the sensitivity of process domains for logjams to spatial and temporal sample size in river networks of the Southern Rockies, USA. Journal of Geophysical Research: Earth Surface. https://doi.org/10.1029/2025JF008491</p>
-<p><strong>Triantafillou, S</strong>, E Wohl, DN Scott, A Marshall. <em>In review.</em> Interacting effects of wood and channel geometry on pool depth in gravel-bed rivers. Earth Surface Processes and Landforms.</p>
+<p><strong>Triantafillou, S</strong>, E Wohl, DN Scott, A Marshall. (2026). Interacting effects of wood and channel geometry on pool depth in gravel-bed rivers. Earth Surface Processes and Landforms.</p>
 
 
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/Logjams/</guid>
-  <pubDate>Tue, 15 Sep 2026 22:23:10 GMT</pubDate>
+  <pubDate>Tue, 06 Oct 2026 20:07:27 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/Logjams/pools.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -204,12 +205,13 @@
 <h3 class="anchored" data-anchor-id="publications">Publications</h3>
 </section>
 <p>Marshall, A, RR Morrison, B Jones, <strong>S Triantafillou</strong>, E Wohl. (2024). Handheld LIDAR as a tool for characterizing wood‐rich river corridors. River Research and Applications. <a href="https://doi.org/10.1002/rra.4239">https://doi.org/10.1002/rra.4239</a></p>
+<p><strong>Triantafillou, S</strong>, E Wohl, DN Scott, A Marshall. (2026). Interacting effects of wood and channel geometry on pool depth in gravel-bed rivers. Earth Surface Processes and Landforms.</p>
 
 
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/RemoteSensing/</guid>
-  <pubDate>Tue, 15 Sep 2026 22:23:10 GMT</pubDate>
+  <pubDate>Tue, 06 Oct 2026 20:07:27 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/RemoteSensing/iowa2.png" medium="image" type="image/png" height="73" width="144"/>
 </item>
 </channel>

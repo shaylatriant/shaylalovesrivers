@@ -6,6 +6,12 @@ format: html
 :::{.mostly-width-section}
 
 ::: {.blob-bg}
+**October 2026:** My latest publication is out now! Read about [in-channel wood and bedforms](http://dx.doi.org/10.1002/esp.70424) in Earth Surface Processes and Landforms.
+:::
+
+<div style="height: 0.5rem;"></div>
+
+::: {.blob-bg}
 **June 2026:** Read our review of headwater stream geomorphology out now in Earth Science Reviews: [Hydrogeomorphology of Headwater Streams](https://doi.org/10.1016/j.earscirev.2026.105586)
 :::
 
