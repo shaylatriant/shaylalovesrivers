@@ -10,7 +10,7 @@
 <atom:link href="https://github.com/shaylatriant/shaylalovesrivers.git/research.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 06 Oct 2026 20:17:26 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 20:10:05 GMT</lastBuildDate>
 <item>
   <title>River response to disturbance</title>
   <link>https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/</link>
@@ -75,7 +75,7 @@
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/</guid>
-  <pubDate>Tue, 06 Oct 2026 20:17:26 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 20:10:05 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/lbccover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -113,7 +113,7 @@
 <div class="text-image-row">
 <div class="row-text">
 <p>Bedforms create critical habitat diversity for aquatic species. Habitat-driven management decisions often aim to create many pools for fish, especially species that require deep, slow water as flood refuge. While wood and quantity of pools has been shown across many regions, the relationship between wood and habitat quality is less well understood.</p>
-<p><strong><em>This work is in-progress, stay tuned for upcoming presentations and publications</em></strong></p>
+<p><strong><em>Read more about it in <a href="http://dx.doi.org/10.1002/esp.70424">Earth Surface Processes and Landforms</a> stay tuned for additional presentations and publications</em></strong></p>
 </div>
 <div class="row-images">
 <div class="quarto-figure quarto-figure-center">
@@ -145,7 +145,7 @@
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/Logjams/</guid>
-  <pubDate>Tue, 06 Oct 2026 20:17:26 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 20:10:05 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/Logjams/pools.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -211,7 +211,7 @@
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/RemoteSensing/</guid>
-  <pubDate>Tue, 06 Oct 2026 20:17:26 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 20:10:05 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/RemoteSensing/iowa2.png" medium="image" type="image/png" height="73" width="144"/>
 </item>
 </channel>
