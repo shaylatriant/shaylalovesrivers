@@ -50,7 +50,7 @@ We found that elevation, morphology, and disturbance history acted as controls o
 ::: {.row-text}
 Bedforms create critical habitat diversity for aquatic species. Habitat-driven management decisions often aim to create many pools for fish, especially species that require deep, slow water as flood refuge. While wood and quantity of pools has been shown across many regions, the relationship between wood and habitat quality is less well understood. 
 
-***This work is in-progress, stay tuned for upcoming presentations and publications***
+***Read more about it in [Earth Surface Processes and Landforms](http://dx.doi.org/10.1002/esp.70424) stay tuned for additional presentations and publications***
 
 :::
 
