@@ -10,6 +10,7 @@ website:
   title: "Shayla Triantafillou"
   site-url: https://github.com/shaylatriant/shaylalovesrivers.git
   favicon: media/favicon.png
+  google-analytics: G-S0GESNHGSC
   navbar:
     left:
       - href: index.qmd
