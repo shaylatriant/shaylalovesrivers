@@ -9,13 +9,14 @@ publish:
 website:
   title: "Shayla Triantafillou"
   site-url: https://github.com/shaylatriant/shaylalovesrivers.git
+  favicon: media/favicon.png
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
-      - href: research.qmd
+      - href: Research.qmd
         text: Research
       - href: news.qmd
         text: News

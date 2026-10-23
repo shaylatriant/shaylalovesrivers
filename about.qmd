@@ -3,7 +3,6 @@
 
 ::: {.container}
 
-<!-- Left Column -->
 ::: {.left-column-body .light-text}
 
 ![](media/profile.png){.circle-image}
@@ -16,7 +15,7 @@
 </div>
 :::
 
-<!-- Right Column -->
+
 ::: {.right-column}
 Water has played a central role in my life in everything from recreation to pursuing a career in research. I've always taken every opportunity to get my feet wet. My first foray into scientific research was assisting with a project studying terrapins in the Chesapeake Bay. This work opened a door to field research and set me on a path towards river science.
 
@@ -36,3 +35,5 @@ As a current PhD candidate in the [Fluvial Geomorphology Group](https://sites.wa
   University of Vermont
 :::
 :::
+
+
