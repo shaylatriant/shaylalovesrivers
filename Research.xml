@@ -10,7 +10,7 @@
 <atom:link href="https://github.com/shaylatriant/shaylalovesrivers.git/Research.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Fri, 23 Oct 2026 00:30:30 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 00:38:45 GMT</lastBuildDate>
 <item>
   <title>River response to disturbance</title>
   <link>https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/</link>
@@ -75,7 +75,7 @@
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/</guid>
-  <pubDate>Fri, 23 Oct 2026 00:30:30 GMT</pubDate>
+  <pubDate>Fri, 23 Oct 2026 00:38:45 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/Disturbance/lbccover.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -145,7 +145,7 @@
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/Logjams/</guid>
-  <pubDate>Fri, 23 Oct 2026 00:30:30 GMT</pubDate>
+  <pubDate>Fri, 23 Oct 2026 00:38:45 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/Logjams/pools.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -211,7 +211,7 @@
 
  ]]></description>
   <guid>https://github.com/shaylatriant/shaylalovesrivers.git/research/RemoteSensing/</guid>
-  <pubDate>Fri, 23 Oct 2026 00:30:30 GMT</pubDate>
+  <pubDate>Fri, 23 Oct 2026 00:38:45 GMT</pubDate>
   <media:content url="https://github.com/shaylatriant/shaylalovesrivers.git/research/RemoteSensing/iowa2.png" medium="image" type="image/png" height="73" width="144"/>
 </item>
 </channel>
